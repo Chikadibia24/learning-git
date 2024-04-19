@@ -1,0 +1,1 @@
+let welcome = 'You are welcome my good man!';
